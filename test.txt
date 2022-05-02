@@ -1,0 +1,185 @@
+Como preparar masato
+
+utterance   	mahta tei ihpurawe an ma'su wenu ni'kamarenin
+u-mb        	ma-ta te-i ipura-we an ma'su wenu ni'kamaren-in
+u-gl        	what-int say-hort.1ex.mn now-dsc2 an hesit manioc.beer word-ind.3mn
+spa         	este para preparar el masato
+TC          	00:00:23.896 - 00:00:27.508
+
+
+utterance   	wenu yani'patera
+u-mb        	wenu ya-ni'-pate-ra
+u-gl        	manioc.beer des-make-seq.imprs-abl
+spa         	cuando se quiere preparar el masato
+TC          	00:00:28.093 - 00:00:29.888
+
+
+utterance   	pa'ne ta'shirechin ki'sha wa'tere
+u-mb        	pa'-ne ta'shire-chin ki'sha wa'te-re
+u-gl        	go-ind.imprs morning-dsc3 cassava pull.from.root-ind.imprs
+spa         	se va en la mañana ,a sacar yuca
+TC          	00:00:30.008 - 00:00:33.058
+
+
+utterance   	ki'sha wa'tate
+u-mb        	ki'sha wa't-a-te
+u-gl        	cassava pull.from.root-prog-sub.imprs
+spa         	sacando la yuca
+TC          	00:00:33.282 - 00:00:35.059
+
+
+utterance   	iminke ki'sha wa'tate kemate
+u-mb        	imin-ke ki'sha wa't-a-te ke-ma-te
+u-gl        	field-loc cassava pull.from.root-prog-sub.imprs bring-down-sub.imprs
+spa         	en la chacra sacando yuca se trae
+TC          	00:00:36.070 - 00:00:38.694
+
+
+utterance   	a'yutere inake ki'sha wa'tate i'sure
+u-mb        	a'yute-re ina-ke ki'sha wa't-a-te i'su-re
+u-gl        	cook-ind.imprs that-loc cassava pull.from.root-prog-sub.3mn 
+            	peel-ind.imprs
+spa         	se le cosina ,ahi sacando la yuca se le pela
+TC          	00:00:39.288 - 00:00:42.399
+
+
+utterance   	i'susate kemate pa'mure
+u-mb        	i'su-sa-te ke-ma-te pa'mu-re
+u-gl        	peel-prog-sub.imprs bring-down-sub.imprs clean-ind.imprs
+spa         	pelando se le lava
+TC          	00:00:42.545 - 00:00:44.841
+
+
+utterance   	a'yutere
+u-mb        	a'yute-re
+u-gl        	cook-ind.imprs
+spa         	se le cocina
+TC          	00:00:45.046 - 00:00:46.459
+
+
+utterance   	inara a'yutuwatera nanin ki'sha inpituwachina pi'ipachina a'pisawate
+u-mb        	ina-ra a'yutu-wate-ra nanin ki'sha inpitu-wachina pi'i-pachina 
+            	a'pi-sa-wate
+u-gl        	that-abl cook-seq.imprs-abl already cassava boil-seq.3au.ds 
+            	cook-seq.3au.ds take.pot.from.fire-prog-seq.imprs
+spa         	despues de cocinar ,cuando ya esta cocinado se le baja
+TC          	00:00:46.928 - 00:00:51.746
+
+
+utterance   	ma'su
+u-mb        	ma'su
+u-gl        	hesit
+spa         	este
+TC          	00:00:52.289 - 00:00:53.337
+
+
+utterance   	a'piate i'mutere
+u-mb        	a'pi-a-te i'mute-re
+u-gl        	take.pot.from.fire-prog-sub.imprs mash-ind.imprs
+spa         	se le machaca
+TC          	00:00:54.424 - 00:00:56.319
+
+
+utterance   	nanin i'mutuwaterawe
+u-mb        	nanin i'mutu-wate-ra-we
+u-gl        	already mash-seq.imprs-abl-dsc2
+spa         	ya cuando se le machaca
+TC          	00:00:56.319 - 00:00:57.998
+
+
+utterance   	ma'su a'shu i'shusawate a'shu tu'nantere a'shu tu'nantere 
+            	a'nara'chin ki'shanta wenunta ki'sha kashikamare
+u-mb        	ma'su a'shu i'shu-sa-wate a'shu tu'nan-te-re a'shu tu'nan-te-re 
+            	a'nara'chin ki'sha-nta wenu-nta ki'sha kashi-ka-mare
+u-gl        	hesit sweet.potato peel-prog-seq.imprs sweet.potato 
+            	grate-vm-ind.imprs sweet.potato grate-vm-ind.imprs word cassava-add 
+            	manioc.beer-add cassava sweet-purp.3mn-purp.v
+spa         	este pelando camote y despues se le ralla ahi la yuca tambien se 
+            	hace dulce
+TC          	00:00:58.160 - 00:01:05.480
+
+
+utterance   	a'shu tunantate                       	inaran
+u-mb        	a'shu tunan-t-a-te                    	ina-ran
+u-gl        	sweet.potato grate-vm-prog-sub.imprs  	that-abl
+spa         	rallando el camote                    	despues
+TC          	00:01:05.480 - 00:01:07.065           	00:01:07.213 - 00:01:08.246
+
+
+utterance   	ma'su                        	wenure wenusa'te
+u-mb        	ma'su                        	wenu-re wenu-sa'-te
+u-gl        	hesit                       	chew-ind.imprs chew-prog-sub.imprs
+spa         	este                         	se le masca,mascandole
+TC          	00:01:08.576 - 00:01:09.659  	00:01:10.106 - 00:01:12.555
+
+
+utterance   	nanin kashi ni'pachinawe tananpitere
+u-mb        	nanin kashi ni'-pachina-we tananpite-re
+u-gl        	already sweet be-seq.3au.ds-dsc2 leave-ind.imprs
+spa         	ya cuando esta dulce se le deja
+TC          	00:01:13.121 - 00:01:15.976
+
+
+utterance   	te'neiwachina ma'su ta'pankamare
+u-mb        	te'ne-i-wachina ma'su ta'pan-ka-mare
+u-gl        	cold-cls.water-seq.3au.ds hesit pour-purp.3mn-purp.v
+spa         	cuando se enfria para basear
+TC          	00:01:16.765 - 00:01:19.826
+
+
+utterance   	i'chi te'neire
+u-mb        	i'chi-te'ne-i-re
+u-gl        	soc.caus-cold-cls.water-ind.imprs
+spa         	se le hace enfriar
+TC          	00:01:20.117 - 00:01:21.546
+
+
+utterance   	nanin te'neiwachina ma'shiten ma'tere
+u-mb        	nanin te'ne-i-wachina ma'shiten ma'-te-re
+u-gl        	already cold-cls.water-seq.3au.ds pulp grab-vm-ind.imprs
+spa         	ya cuando se enfrie se le saca su afrecho
+TC          	00:01:21.832 - 00:01:24.553
+
+
+utterance   	ma'shiten ma'tate            	ta'pane ta'shiremechin
+u-mb        	ma'shiten ma'-ta-te          	ta'pan-e ta'shiremechin
+u-gl        	pulp grab-vm-sub.imprs       	pour-ind.imprs in.morning
+spa         	sacandole su afrecho         	se le basea,en la mañana
+TC          	00:01:24.553 - 00:01:25.738  	00:01:26.275 - 00:01:28.224
+
+
+utterance   	sha'muru u'ukamare
+u-mb        	sha'muru u'u-ka-mare
+u-gl        	fresh.manioc.beer drink-purp.3mn-purp.v
+spa         	para tomar puso ,puso
+TC          	00:01:28.815 - 00:01:30.071
+
+
+utterance   	ini'chin wenu wenu'su ni'kamare ini'chin
+u-mb        	in-i'chin wenu wenu'-su ni'-ka-mare in-i'chin
+u-gl        	that-dsc3 manioc.beer manioc.beer-foc make-purp.3mn-purp.v that-dsc3
+spa         	para hacer el masato solo eso
+TC          	00:01:31.459 - 00:01:34.260
+
+
+utterance   	nuwantere ku a'kete sa'kayau wenu ni'kamare
+u-mb        	nuwante-re ku a'kete sa'kay-u wenu ni'-ka-mare
+u-gl        	need-ind.imprs neg deg difficult-neg manioc.beer make-purp.3mn-purp
+spa         	se necesita, no es facil para hacer el masato
+TC          	00:01:34.260 - 00:01:37.275
+
+
+utterance   	ini'chin                     	shawiteranke
+u-mb        	in-i'chin                    	shawi-te-ra-nke
+u-gl        	that-dsc3                     	tell-vm-ind.1ex.mn-obj.2mn
+spa         	eso no mas                   	te cuento
+TC          	00:01:38.224 - 00:01:39.294  	00:01:39.610 - 00:01:40.634
+
+
+utterance   	naniwe
+u-mb        	nani-we
+u-gl        	already-dsc2
+spa         	ya esta
+TC          	00:01:40.891 - 00:01:41.954
+
+

@@ -1,0 +1,13 @@
+int
+hort.1ex.mn
+dsc2
+ind.3mn
+seq.imprs
+abl
+ind.imprs
+dsc3
+ind.imprs
+prog
+sub.imprs
+loc
+sub.3mn
