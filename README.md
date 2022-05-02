@@ -39,6 +39,24 @@ spa         	se va en la mañana ,a sacar yuca
 TC          	00:00:30.008 - 00:00:33.058
 ```
 
+And a grammatical elements file:
+
+```
+int
+hort.1ex.mn
+dsc2
+ind.3mn
+seq.imprs
+abl
+ind.imprs
+dsc3
+ind.imprs
+prog
+sub.imprs
+loc
+sub.3mn
+```
+
 The output will look like:
 
 ```
